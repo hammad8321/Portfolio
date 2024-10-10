@@ -10,7 +10,7 @@
 
 ## **Objective**
 
-Highly motivated and skilled Full-Stack Developer with a strong background in .NET, React, and TypeScript. I seek to apply my technical expertise in software development and systems analysis to contribute to the success of an innovative organization while continually advancing my skills.
+Self-taught and driven Full-Stack Developer with a solid foundation in .NET, React, and TypeScript. Passionate about continuous learning and improvement, I am eager to apply my growing expertise in software development and systems analysis to contribute to innovative projects and organizational success.
 
 ---
 
