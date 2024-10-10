@@ -24,7 +24,7 @@ Highly motivated and skilled Full-Stack Developer with a strong background in .N
 
 ## **Professional Experience**
 
-### **Junior Analyst Programmer**  
+### **Analyst Programmer**  
 **Brand Services** | *2021 – Present*  
 
 - Oversee network monitoring and system analysis for new development projects.
@@ -32,7 +32,7 @@ Highly motivated and skilled Full-Stack Developer with a strong background in .N
 - Perform code reviews for new services and offer system support.
 - Engage in testing and inspection of system upgrades, ensuring smooth deployment and performance.
 
-### **Supervisor, QA Software**  
+### **Engineering Supervisor, QA Software**  
 **Worldcall Wireless Company Limited (WLL)** | *2014 – 2015*  
 
 - Led the QA team in monitoring and maintaining the network and services.
@@ -80,7 +80,8 @@ Highly motivated and skilled Full-Stack Developer with a strong background in .N
 
 ## **Certifications & Training**
 
-- **CCNA Training**  
+- **CCNA Training**
+- **Microsoft:** Microsoft Azure Fundamentals  
 - **Workshops:** CDMA and EVDO-based 3G cellular systems  
 - **ZTE BSC ZX-9000:** Basic information and maintenance training  
 - **NEC Ipasso links:** MW Planning basics  
