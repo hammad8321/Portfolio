@@ -17,8 +17,8 @@ Self-taught and driven Full-Stack Developer with a solid foundation in .NET, Rea
 ## **Education**
 
 - **Certificate IV in Programming** | TAFE SA, Australia | *2019 – 2020*  
-- **MS in Electrical Engineering** | University of Management and Technology (UMT), Lahore, Pakistan | *2010 – 2012*  
-- **BSc in Electrical Engineering** (Specialization: Electronics & Telecommunication Engineering) | University College of Engineering and Technology, Mirpur, Azad Kashmir  
+- **MS in Engineering** | University of Management and Technology (UMT), Lahore, Pakistan | *2010 – 2012*  
+- **BSc in Engineering** (Specialization: System & Telecommunication Engineering) | University College of Engineering and Technology, Mirpur, Azad Kashmir  
 
 ---
 
