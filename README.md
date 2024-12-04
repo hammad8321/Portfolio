@@ -18,7 +18,7 @@ Self-taught and driven Full-Stack Developer with a solid foundation in .NET, Rea
 
 - **Certificate IV in Programming** | TAFE SA, Australia | *2019 – 2020*  
 - **MS in Engineering** | *2010 – 2012*  
-- **BSc in Engineering** | 2004-2008
+- **BSc in Engineering** | *2004 - 2008*
 
 ---
 
