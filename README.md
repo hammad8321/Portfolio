@@ -80,6 +80,7 @@ Self-taught and driven Full-Stack Developer with a solid foundation in .NET, Rea
 
 ## **Certifications & Training**
 
+- **.NET Core MVC - The Complete Guide 2025** successfully completed on 02/21/2025
 - **CCNA Training**
 - **Microsoft:** Microsoft Azure Fundamentals  
 - **Workshops:** CDMA and EVDO-based 3G cellular systems  
